@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "428588995318",
+    "project_id": "edunetwork-newsapp",
+    "storage_bucket": "edunetwork-newsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428588995318:android:4b53bb6c84b2803912d2d7",
+        "android_client_info": {
+          "package_name": "in.edunetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428588995318-3olqd1snk0hmfla0v1d9iro1naof5she.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.edunetwork",
+            "certificate_hash": "f58f8e92f2adf6120735833625c67a93b0a0a4a2"
+          }
+        },
+        {
+          "client_id": "428588995318-9oc73tqpa2735ud9ejfn3e5m4hoeji5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.edunetwork",
+            "certificate_hash": "df36146ce40b3f24c3658f2fbc74e92cdc43d7ff"
+          }
+        },
+        {
+          "client_id": "428588995318-38deaqa9cd8m1gnhgtaincl02kjk5jad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHQh4byQCJgoTjERa09t-q9JwODxj_XJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428588995318-38deaqa9cd8m1gnhgtaincl02kjk5jad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
