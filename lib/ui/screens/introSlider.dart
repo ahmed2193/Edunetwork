@@ -50,7 +50,11 @@ class GettingStartedScreenState extends State<IntroSliderScreen> with TickerProv
         bottomNavigationBar: nextButton(),
         appBar: AppBar(automaticallyImplyLeading: false, centerTitle: false, actions: [
         //  setSkipButton()
-        ], title: SvgPicture.asset(UiUtils.getSvgImagePath("intro_icon"), fit: BoxFit.cover)),
+        ], title: Image.asset(
+          
+          width:60,
+          height:60,
+          'assets/images/svgImage/intro_icon.png', fit: BoxFit.cover)),
         body: _buildIntroSlider());
   }
 
